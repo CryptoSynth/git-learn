@@ -1,6 +1,6 @@
 <template>
   <div class="exmaple-1">
-    <h1>User 2</h1>
+    <h1>User 2 changes</h1>
     <ul>
       <li v-for="item in items" :key="item.id">{{ item }}</li>
     </ul>
