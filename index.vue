@@ -4,6 +4,7 @@
     <ul>
       <li v-for="item in items" :key="item.id">{{ item }}</li>
     </ul>
+    <p>Something new has been added</p>
   </div>
 </template>
 
