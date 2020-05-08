@@ -1,6 +1,6 @@
 <template>
   <div class="text-">
-    <h1>User 2 is now in the house, get rekt</h1>
+    <h1>User 3 is now in the house, get rekt</h1>
     <ul>
       <li v-for="item in items" :key="item.id">{{ item }}</li>
     </ul>
